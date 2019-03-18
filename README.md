@@ -1,9 +1,5 @@
-# Pyqt5ExcelToMysql
-使用PyQt5将Excel数据导入mysql
-
 # 使用PyQt5将Excel数据导入mysql
 
-[TOC]
 
 ## 一、环境配置
 
@@ -96,4 +92,4 @@ pyuic.exe的目录在python的安装目录下，working directory:内容填写`$
 ![](https://img.rayu.me/2019/03/2234676904.png)
 
 ## 六、TODO list
-[] 1、自定义表名和表内字段名称；
+- [] 1、自定义表名和表内字段名称；
