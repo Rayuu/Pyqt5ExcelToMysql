@@ -1,0 +1,2 @@
+# Pyqt5ExcelToMysql
+使用PyQt5将Excel数据导入mysql
